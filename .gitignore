@@ -1,0 +1,4 @@
+node_modules/
+cypress/fixtures/web-data.json
+cypress/reports
+cypress/screenshots
